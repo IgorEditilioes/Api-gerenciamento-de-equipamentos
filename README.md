@@ -1,0 +1,1 @@
+# Api-gerenciamento-de-equipamentos
